@@ -44,8 +44,6 @@ Sou um desenvolvedor fullstack. (desenvolvimento....)
   <a href="mailto:joaosilvadev.93@gmail.com" target="_blank">
   <img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  
   <a href="https://www.linkedin.com/in/jo%C3%A3o-silva-0aa3652b2">
   <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
