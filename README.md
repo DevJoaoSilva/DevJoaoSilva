@@ -8,13 +8,11 @@
 
 Sou um desenvolvedor fullstack. (desenvolvimento....)
 
-<div align="center">
-  <a>
-    Portfolio img
-  </a>
-  <a>
-    Latest Project img
-  </a>
+ Portfólio | Último Projeto
+ -- | --
+ <a href="https://portfolio-joaosilva.vercel.app"><img src="portfolio.png" /></a> | <a href="https://js-store-app.vercel.app"><img src="jsstore.png" /></a>
+ 
+
 </div>
 
 #
