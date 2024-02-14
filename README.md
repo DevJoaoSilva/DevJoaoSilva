@@ -6,9 +6,12 @@
   <img src="https://badgen.net/badge/color/Fullstack Developer/cyan?label=" />
 </div
 
-Sou um desenvolvedor fullstack. (desenvolvimento....)
+I'm passionate about 
+creating applications 
+that simplify people's 
+lives
 
- Portfólio | Último Projeto
+ Portfolio | Last Project
  -- | --
  <a href="https://portfolio-joaosilva.vercel.app"><img src="portfolio.png" /></a> | <a href="https://js-store-app.vercel.app"><img src="jsstore.png" /></a>
  
