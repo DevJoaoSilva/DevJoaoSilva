@@ -12,7 +12,7 @@ delivery (CI/CD), and developing scalable solutions.
 
  Portfolio | Last Project
  -- | --
- <a href="https://portfolio-joaosilva.vercel.app"><img src="portfolio.png" /></a> | <a href="https://top-dos-toppers.vercel.app"><img src="lastproject.jpg" /></a>
+ <a href="https://portfolio-joaosilva.vercel.app" target="_blank"><img src="portfolio.png" /></a> | <a href="https://top-dos-toppers.vercel.app" target="_blank"><img src="lastproject.jpg" /></a>
  
 
 </div>
