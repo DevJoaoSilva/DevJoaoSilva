@@ -6,14 +6,13 @@
   <img src="https://badgen.net/badge/color/Fullstack Developer/cyan?label=" />
 </div
 
-I'm passionate about 
-creating applications 
-that simplify people's 
-lives
+Fullstack developer focused on the JavaScript ecosystem, with experience in frontend (React, Next.js)
+and backend (Node.js, Express). Practical experience with automated testing, continuous integration/
+delivery (CI/CD), and developing scalable solutions.
 
  Portfolio | Last Project
  -- | --
- <a href="https://portfolio-joaosilva.vercel.app"><img src="portfolio.png" /></a> | <a href="https://js-store-app.vercel.app"><img src="jsstore.png" /></a>
+ <a href="https://portfolio-joaosilva.vercel.app"><img src="portfolio.png" /></a> | <a href="https://top-dos-toppers.vercel.app"><img src="lastproject.jpg" /></a>
  
 
 </div>
@@ -41,6 +40,7 @@ lives
 <div align="center">
     <img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" title="MySQL" align="center" />&nbsp;
     <img height="30rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" align="center" />
+    <img height="30rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" title="MongoDB" align="center" />
 </div>
 
 ##
