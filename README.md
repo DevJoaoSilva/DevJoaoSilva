@@ -40,7 +40,7 @@ delivery (CI/CD), and developing scalable solutions.
 <div align="center">
     <img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" title="MySQL" align="center" />&nbsp;
     <img height="30rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" align="center" />
-    <img height="30rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" title="MongoDB" align="center" />
+    <img height="30rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" title="Redis" align="center" />
 </div>
 
 ##
